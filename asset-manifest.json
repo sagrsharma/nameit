@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sagrsharma/nameit/static/css/main.1ef5687d.chunk.css",
+    "main.js": "/sagrsharma/nameit/static/js/main.95d63470.chunk.js",
+    "main.js.map": "/sagrsharma/nameit/static/js/main.95d63470.chunk.js.map",
+    "runtime-main.js": "/sagrsharma/nameit/static/js/runtime-main.2bdacdb9.js",
+    "runtime-main.js.map": "/sagrsharma/nameit/static/js/runtime-main.2bdacdb9.js.map",
+    "static/js/2.0c183f0d.chunk.js": "/sagrsharma/nameit/static/js/2.0c183f0d.chunk.js",
+    "static/js/2.0c183f0d.chunk.js.map": "/sagrsharma/nameit/static/js/2.0c183f0d.chunk.js.map",
+    "index.html": "/sagrsharma/nameit/index.html",
+    "static/css/main.1ef5687d.chunk.css.map": "/sagrsharma/nameit/static/css/main.1ef5687d.chunk.css.map",
+    "static/js/2.0c183f0d.chunk.js.LICENSE.txt": "/sagrsharma/nameit/static/js/2.0c183f0d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bdacdb9.js",
+    "static/js/2.0c183f0d.chunk.js",
+    "static/css/main.1ef5687d.chunk.css",
+    "static/js/main.95d63470.chunk.js"
+  ]
+}
